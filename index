@@ -1,0 +1,900 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+    <meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+    <meta name="renderer" content="webkit">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="format-detection" content="telephone=no, email=no">
+            <link rel="icon" href="http://img.wezhan.cn/27667_favicon.ico">
+
+    <title>Android-X86_Installer</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="remix一键刷机工具,关键词">
+
+    <link rel="stylesheet" href="index_files/base.css" type="text/css">
+        <link rel="stylesheet" href="index_files/1265_zh-CN.css" type="text/css">
+    
+
+
+        <script style="color: rgb(0, 0, 0);" type="text/javascript" src="index_files/jquery-1.js"></script>
+        <script type="text/javascript" src="index_files/jquery-migrate-1.js"></script>
+        <script type="text/javascript" src="index_files/jquery-ui.js"></script>
+        <script type="text/javascript" src="index_files/public.js"></script>
+        <script type="text/javascript" src="index_files/jquery.js"></script>
+        <script type="text/javascript" src="index_files/underscore-min.js"></script>
+        <script type="text/javascript" src="index_files/jquery_004.js"></script>
+<script type="text/javascript" src="index_files/jquery_003.js"></script>
+<script language="javascript" type="text/javascript" id="yibuHeaderScript">
+</script>
+    <script src="index_files/velocity_002.js"></script>
+    <script src="index_files/velocity.js"></script>
+    <script type="text/javascript" src="index_files/jquery_002.js"></script>
+
+    <meta name="baidu-site-verification" content="Eq2zZVXyjr">
+<script async="" src="index_files/core.php"></script></head>
+<body>
+<div id="view_layout_1_843" class="mainSamrtView yibuSmartViewMargin">
+<div class="yibuFrameContent layout_Block2_Item0" style="border-style:none;">
+       <style type="text/css">
+
+ .header,.main-wrap .main,.footer { position:relative; clear:both; margin:0 auto; padding:0;}
+ .main-wrap { clear:both; margin:0; padding:0; width:auto; }
+ .main-wrap .main {}
+
+.main-wrap .main .content { width:100%;}
+
+body{
+background-color:;
+
+}
+</style>
+
+
+    <div style="*z-index:11;*position:relative;width:100%;height:790px;margin-left:auto;margin-right:auto;background-color:">
+      <div class="header page_header" style="width:1000px;height:790px;;">
+           <div class="runTimeflowsmartView"><div id="view_image_3_843" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden image_Style1_Item0" style="height:48px;width:127px;border-style:none;">    <div class="megwh" style="height:100%; width:100%;">
+        <a id="autosize_view_image_3_843" href="http://down.androidx86install.com/sy" target="_self">
+            <input id="w_view_image_3_843" value="48" type="hidden">
+            <input id="h_view_image_3_843" value="48" type="hidden">
+            <input id="canadjustwidth_view_image_3_843" value="False" type="hidden">
+            <input id="canadjustheight_view_image_3_843" value="False" type="hidden">
+
+            <img class="lazyload" src="index_files/6338518_twitter_v_48px_1144022_easyicon.png" data-original="http://img1.wezhan.cn/content/sitefiles/27667/images/6338518_twitter_v_48px_1144022_easyicon.net_21efb717-72a1-472b-b1cc-a47ccd3706e0_resize_picture.png" alt="" style="border: medium none; position: relative; display: inline;">
+        </a>
+    </div>
+</div>
+</div>
+<div style="z-index: 999999;" id="view_navigator_8_843" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent navigator_Style3_Item0 view_navigator_8_843_Style3_Item0" style="border-style: none; overflow: visible;"><!--nav-->
+    <ul id="nav_view_navigator_8_843" styleitem="Style3">
+            <li class="w_nav_item on" style="width:16.66%;*width:16.33%">
+                    <h3>
+                        <a href="http://www.androidx86install.com/index/" target="_blank">
+                            Blog
+                        </a>
+                    </h3>
+                            </li>
+            <li class="w_nav_item" style="width:16.66%;*width:16.33%">
+                    <h3>
+                        <a href="http://www.androidx86install.com/download" target="_self">
+                            Download
+                        </a>
+                    </h3>
+                            </li>
+            <li class="w_nav_item" style="width:16.66%;*width:16.33%">
+                    <h3>
+                        <a href="http://www.androidx86install.com/userguide.htm" target="_self">
+                            Guide
+                        </a>
+                    </h3>
+                            </li>
+            <li class="w_nav_item" style="width:16.66%;*width:16.33%">
+                    <h3>
+                        <a href="http://www.androidx86install.com/faq/" target="_blank">
+                            FAQ
+                        </a>
+                    </h3>
+                            </li>
+            <li class="w_nav_item" style="width:16.66%;*width:16.33%">
+                    <h3>
+                        <a href="http://bbs.jide.com/" target="_blank">
+                            Forum
+                        </a>
+                    </h3>
+                            </li>
+            <li class="w_nav_item" style="width:16.66%;*width:16.33%">
+                    <h3>
+                        <a href="http://www.androidx86install.com/index/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC/" target="_blank">
+                            About
+                        </a>
+                    </h3>
+                            </li>
+    </ul>
+
+<!--/nav-->
+<input id="HeightVariablesStr_view_navigator_8_843" value="$height:97px;$Item_height:97px;$SubItem_height:97px;" type="hidden">
+<script>
+    $(function () {
+        slideMenu("nav_" + 'view_navigator_8_843');
+        jQuery("#nav_" + 'view_navigator_8_843').parent("div").css("overflow", "visible");
+        var isDivider = true;
+
+        //子导航下边框显示不出来的fix 
+        $("#nav_" + 'view_navigator_8_843').children("li").each(function () {
+            var Li_height = $(this).height();
+            $("li", this).height(Li_height);
+
+            var child_li = $("li", this);
+            var topborderwidth = $("a:first", child_li).css('border-top-width');
+            topborderwidth = isNaN(parseInt(topborderwidth)) ? 0 : parseInt(topborderwidth);
+            var bottomborderwidth = $("a:first", child_li).css('border-bottom-width');
+            bottomborderwidth = isNaN(parseInt(bottomborderwidth)) ? 0 : parseInt(bottomborderwidth);
+
+            $("a", child_li).height(Li_height - topborderwidth - bottomborderwidth);
+        });
+
+        jQuery("#nav_" + 'view_navigator_8_843').children("li").each(function () {
+            var topWidth = $(this).children("h3").children("a").css("border-top-width");
+            var leftWidth = $(this).children("h3").children("a").css("border-left-width");
+            var bottomWidth = $(this).children("h3").children("a").css("border-bottom-width");
+            if (topWidth != "0" && topWidth != "0px") {
+                isDivider = false;
+                return false;
+            }
+            if (leftWidth != "0" && leftWidth != "0px") {
+                isDivider = false;
+                return false;
+            }
+            if (bottomWidth != "0" && bottomWidth != "0px") {
+                isDivider = false;
+                return false;
+            }
+            if ($(this).children("ul").length > 0) {
+                var maxWidth = $(this).children("ul").width();
+                $(this).children("ul").children("li").each(function () {
+                    var a = $(this).children("a");
+                    var currentWidth = GetCurrentStrWidth(a.html(), a.css("font-size")) + 20;
+
+                    if (maxWidth < currentWidth)
+                        maxWidth = currentWidth;
+                });
+                $(this).children("ul").css("width", maxWidth + "px");
+            }
+
+        });
+        //if (isDivider)
+        //    jQuery("#nav_" + 'view_navigator_8_843').children("li:last").children("h3").children("a").css("border-right-width", "0px");//去掉最后一项的分隔线
+
+        if ("False" == "False") {
+            jQuery("#" + 'view_navigator_8_843').css("z-index", "999999");
+            if ($.browser.msie) {
+                jQuery("#" + 'view_navigator_8_843').parent(".runTimeflowsmartView").css("z-index", "999999");
+            }
+            if (jQuery("#" + 'view_navigator_8_843').parent().attr("class") != "runTimeflowsmartView") {//导航可能放在容器控件中了，需要把容器控件的z-index的值设大
+                jQuery("#" + 'view_navigator_8_843').parent(".w_container_content").parent().parent().css("z-index", "999998");
+            }
+        }
+        SetNavSelectedStyle("nav_" + 'view_navigator_8_843', 'nav');//选中当前导航
+    })
+
+</script>
+
+</div>
+</div>
+<div id="view_photoalbum_33_843" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden photoalbum_Style2_Item0 view_photoalbum_33_843_Style2_Item0" style="height: 677px; width: 1000px; overflow: visible;"><div style="left: -174px; width: 1348px; height: 677px;" class="w_slider_2 renderfullScreen w_slider_2_33">
+
+    <div class="w_slider_img">
+        <ul>
+                <li style="background: transparent url(&quot;http://img.wezhan.cn/content/sitefiles/27667/images/6427790_23.jpeg&quot;) no-repeat scroll center 0px; display: block;">
+                    <div class="siteWidth">
+
+                        <p class="txt" style="display:none;">
+                            23
+                            <span class="btn"></span>
+                        </p>
+                        <p class="txtDesc" style="display: none;">
+                            图片1
+                        </p>
+
+                        <a style=" cursor:default" title="23" href="javascript:void(0);"></a>
+
+                    </div>
+                </li>
+                <li style="background: transparent url(&quot;http://img.wezhan.cn/content/sitefiles/27667/images/6428017_ntk-1842-5488.jpeg&quot;) no-repeat scroll center 0px; display: none;">
+                    <div class="siteWidth">
+
+                        <p class="txt" style="display:none;">
+                            ntk-1842-5488
+                            <span class="btn"></span>
+                        </p>
+                        <p class="txtDesc" style="display: none;">
+                            图片2
+                        </p>
+
+                        <a style=" cursor:default" title="ntk-1842-5488" href="javascript:void(0);"></a>
+
+                    </div>
+                </li>
+        </ul>
+    </div>
+    <!-- 下面是前/后按钮代码，如果不需要删除即可 -->
+    <a class="prev" href="javascript:void(0)"></a>
+    <a class="next" href="javascript:void(0)"></a>
+
+    <div class="w_slider_num"><ul><li class="on">1</li><li class="">2</li></ul></div>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+              
+              setRenderFullScreen($("#view_photoalbum_33_843"));
+        
+        $(".w_slider_2_33").slide({
+            titCell: $(".w_slider_2_33 .w_slider_num ul"),
+            mainCell: $(".w_slider_2_33 .w_slider_img ul"),
+            effect: "fade",
+            autoPlay: "true",
+            autoPage: true,
+            trigger: "click",
+            interTime: "1500"
+        });
+    });
+  
+    
+</script></div>
+</div>
+</div>
+      </div>
+    </div>
+    <div class="main-wrap clearfix" style="*z-index:10;*position:relative;width:100%;margin-left:auto;margin-right:auto;;background-color:">
+        <div class="main clearfix page_main" style="width:1000px;">
+        	<div class="content" style="min-height:100px;margin-left:auto;margin-right:auto;;background-color:" id="yibuLayout_center">
+        	    <div id="view_main_1_1265" class="mainSamrtView yibuSmartViewMargin">
+<div class="yibuFrameContent main__Item0" style="height:1951px;width:100%;border-style:none;"><div class="runTimeflowsmartView"><div oldbottom="58" id="view_text_12_1265" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden text_Style1_Item0" style="height:48px;width:500px;">
+<style type="text/css">
+    #view_text_12_1265_txt ul{ list-style-position:inside;}
+</style>
+<div id="view_text_12_1265_txt" style="cursor:default; height:100%; width:100%;">
+    <div class="editableContent">
+        <p style="text-align: center;"><span style="font-family: 微软雅黑, 'Microsoft YaHei'; font-size: 24px; color: #3098cd;"><span style="font-family: 微软雅黑, 'Microsoft YaHei'; font-size: 24px; color: #19ba9b;">Our advantage</span></span></p><p><br></p>
+    </div>
+</div>
+<script>
+    Pagination('view_text_12_1265_txt',"首页","尾页","上一页","下一页");
+</script>
+</div>
+</div>
+<div oldbottom="371" id="view_text_13_1265" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden text_Style1_Item0" style="height:225px;width:285px;">
+<style type="text/css">
+    #view_text_13_1265_txt ul{ list-style-position:inside;}
+</style>
+<div id="view_text_13_1265_txt" style="cursor:default; height:100%; width:100%;">
+    <div class="editableContent">
+        <p style="text-align: center;"><span style="color: rgb(48, 152, 205); font-family: 微软雅黑, 'Microsoft YaHei'; font-size: 18px;"><img src="index_files/6427748_shield_ok_82.png"></span></p><p style="text-align: center;"><span style="color: rgb(48, 152, 205); font-family: 微软雅黑, 'Microsoft YaHei'; font-size: 18px;">绿色</span></p><p style="text-align: center;">我们保证绝对安全与绿色，但是</p><p style="text-align: center;">安全软件可能会误报</p><p><br></p>
+    </div>
+</div>
+<script>
+    Pagination('view_text_13_1265_txt',"首页","尾页","上一页","下一页");
+</script>
+</div>
+</div>
+<div oldbottom="333" id="view_text_14_1265" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden text_Style1_Item0" style="height:210px;width:287px;">
+<style type="text/css">
+    #view_text_14_1265_txt ul{ list-style-position:inside;}
+</style>
+<div id="view_text_14_1265_txt" style="cursor:default; height:100%; width:100%;">
+    <div class="editableContent">
+        <p><br></p><p style="text-align: center;"><img src="index_files/6427758_terminal_ssh_96px_1174093_easyicon.png"></p><p style="text-align: center;"><span style="color: rgb(48, 152, 205); font-family: 微软雅黑, 'Microsoft YaHei'; font-size: 18px;">测试优良</span><br></p><p style="text-align: center;">我们的每个功能都测试且</p><p style="text-align: center;">确保正常使用<br></p>
+    </div>
+</div>
+<script>
+    Pagination('view_text_14_1265_txt',"首页","尾页","上一页","下一页");
+</script>
+</div>
+</div>
+<div oldbottom="350" id="view_text_15_1265" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden text_Style1_Item0" style="height:225px;width:289px;">
+<style type="text/css">
+    #view_text_15_1265_txt ul{ list-style-position:inside;}
+</style>
+<div id="view_text_15_1265_txt" style="cursor:default; height:100%; width:100%;">
+    <div class="editableContent">
+        <p><br></p><p style="text-align: center;"><img src="index_files/6427766_android_96px_1110302_easyicon.png"></p><p style="text-align: center;"><font color="#3098cd" face="微软雅黑, Microsoft YaHei"><span style="font-size: 18px;">完美搭配</span></font></p><p style="text-align: center;">完美兼容Android-X86安装，及<br></p><p style="text-align: center;">所有版本安装</p><p><br></p>
+    </div>
+</div>
+<script>
+    Pagination('view_text_15_1265_txt',"首页","尾页","上一页","下一页");
+</script>
+</div>
+</div>
+<div oldbottom="113" id="view_image_16_1265" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden image_Style1_Item0" style="height:47px;width:1000px;">    <div class="megwh" style="height:100%; width:100%;">
+        <a id="autosize_view_image_16_1265" href="javascript:void(0);" target="_self">
+            <input id="w_view_image_16_1265" value="1000" type="hidden">
+            <input id="h_view_image_16_1265" value="47" type="hidden">
+            <input id="canadjustwidth_view_image_16_1265" value="False" type="hidden">
+            <input id="canadjustheight_view_image_16_1265" value="False" type="hidden">
+
+            <img class="lazyload" src="index_files/5433345_line_3f45363e-edee-4fe6-81f6-ac113cf71e01_resize_pic.png" data-original="http://img.wezhan.cn/content/sitefiles/27667/images/5433345_line_3f45363e-edee-4fe6-81f6-ac113cf71e01_resize_picture.png" alt="" style="border: medium none; position: relative; display: inline;">
+        </a>
+    </div>
+</div>
+</div>
+<div oldbottom="829" id="view_photoalbum_18_1265" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden photoalbum_Style2_Item0 view_photoalbum_18_1265_Style2_Item0" style="height: 429px; width: 1000px; overflow: visible;"><div style="left: -174px; width: 1348px; height: 429px;" class="w_slider_2 renderfullScreen w_slider_2_18">
+
+    <div class="w_slider_img">
+        <ul>
+                <li style="background: url(http://img.wezhan.cn/content/sitefiles/27667/images/6427793_5915d10e7bec54e74bfb0cc7b9389b504ec26afa.jpeg) center 0 no-repeat;">
+                    <div class="siteWidth">
+
+                        <p class="txt" style="display:none;">
+                            5915d10e7bec54e74bfb0cc7b9389b504ec26afa
+                            <span class="btn"></span>
+                        </p>
+                        <p class="txtDesc" style="display: none;">
+                            图片0
+                        </p>
+
+                        <a style=" cursor:default" title="5915d10e7bec54e74bfb0cc7b9389b504ec26afa" href="javascript:void(0);"></a>
+
+                    </div>
+                </li>
+        </ul>
+    </div>
+    <!-- 下面是前/后按钮代码，如果不需要删除即可 -->
+    <a style="display:none;" class="prev" href="javascript:void(0)"></a>
+    <a style="display:none;" class="next" href="javascript:void(0)"></a>
+
+    <div class="w_slider_num" style="display:none;"><ul><li class="on">1</li></ul></div>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+              
+              setRenderFullScreen($("#view_photoalbum_18_1265"));
+        
+        $(".w_slider_2_18").slide({
+            titCell: $(".w_slider_2_18 .w_slider_num ul"),
+            mainCell: $(".w_slider_2_18 .w_slider_img ul"),
+            effect: "fade",
+            autoPlay: "true",
+            autoPage: true,
+            trigger: "click",
+            interTime: "1500"
+        });
+    });
+  
+    
+</script></div>
+</div>
+<div oldbottom="918" id="view_text_21_1265" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden text_Style1_Item0" style="height:48px;width:500px;">
+<style type="text/css">
+    #view_text_21_1265_txt ul{ list-style-position:inside;}
+</style>
+<div id="view_text_21_1265_txt" style="cursor:default; height:100%; width:100%;">
+    <div class="editableContent">
+        <p style="text-align: center;"><span style="font-family: 微软雅黑, 'Microsoft YaHei'; font-size: 24px; color: #3098cd;">关于我们 | <span style="font-family: 微软雅黑, 'Microsoft YaHei'; font-size: 24px; color: #19ba9b;">ABOUT US</span></span></p><p><br></p>
+    </div>
+</div>
+<script>
+    Pagination('view_text_21_1265_txt',"首页","尾页","上一页","下一页");
+</script>
+</div>
+</div>
+<div oldbottom="967" id="view_image_22_1265" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden image_Style1_Item0" style="height:47px;width:1000px;">    <div class="megwh" style="height:100%; width:100%;">
+        <a id="autosize_view_image_22_1265" href="javascript:void(0);" target="_self">
+            <input id="w_view_image_22_1265" value="1000" type="hidden">
+            <input id="h_view_image_22_1265" value="47" type="hidden">
+            <input id="canadjustwidth_view_image_22_1265" value="False" type="hidden">
+            <input id="canadjustheight_view_image_22_1265" value="False" type="hidden">
+
+            <img class="lazyload" src="index_files/5433345_line_b3dba14c-1789-4865-8844-4cd3baa69723_resize_pic.png" data-original="http://img.wezhan.cn/content/sitefiles/27667/images/5433345_line_b3dba14c-1789-4865-8844-4cd3baa69723_resize_picture.png" alt="" style="border: medium none; position: relative; display: inline;">
+        </a>
+    </div>
+</div>
+</div>
+<div oldbottom="1190" id="view_image_23_1265" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden image_Style1_Item0" style="height:198px;width:468px;">    <div class="megwh" style="height:100%; width:100%;">
+        <a id="autosize_view_image_23_1265" href="javascript:void(0);" target="_self">
+            <input id="w_view_image_23_1265" value="468" type="hidden">
+            <input id="h_view_image_23_1265" value="198" type="hidden">
+            <input id="canadjustwidth_view_image_23_1265" value="False" type="hidden">
+            <input id="canadjustheight_view_image_23_1265" value="False" type="hidden">
+
+            <img class="lazyload" src="index_files/5433342_gy_a7bf9f15-4b84-48e2-91a1-c093c2a0f097_resize_pictu.png" data-original="http://img.wezhan.cn/content/sitefiles/27667/images/5433342_gy_a7bf9f15-4b84-48e2-91a1-c093c2a0f097_resize_picture.png" alt="" style="border: medium none; position: relative; display: inline;">
+        </a>
+    </div>
+</div>
+</div>
+<div oldbottom="1190" id="view_image_24_1265" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden image_Style1_Item0" style="height:198px;width:468px;">    <div class="megwh" style="height:100%; width:100%;">
+        <a id="autosize_view_image_24_1265" href="javascript:void(0);" target="_self">
+            <input id="w_view_image_24_1265" value="468" type="hidden">
+            <input id="h_view_image_24_1265" value="198" type="hidden">
+            <input id="canadjustwidth_view_image_24_1265" value="False" type="hidden">
+            <input id="canadjustheight_view_image_24_1265" value="False" type="hidden">
+
+            <img class="lazyload" src="index_files/5433342_gy_c0b3a82e-be22-4a28-a5fe-a08485e4a128_resize_pictu.png" data-original="http://img.wezhan.cn/content/sitefiles/27667/images/5433342_gy_c0b3a82e-be22-4a28-a5fe-a08485e4a128_resize_picture.png" alt="" style="border: medium none; position: relative; display: inline;">
+        </a>
+    </div>
+</div>
+</div>
+<div oldbottom="1436" id="view_image_25_1265" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden image_Style1_Item0" style="height:198px;width:468px;">    <div class="megwh" style="height:100%; width:100%;">
+        <a id="autosize_view_image_25_1265" href="javascript:void(0);" target="_self">
+            <input id="w_view_image_25_1265" value="468" type="hidden">
+            <input id="h_view_image_25_1265" value="198" type="hidden">
+            <input id="canadjustwidth_view_image_25_1265" value="False" type="hidden">
+            <input id="canadjustheight_view_image_25_1265" value="False" type="hidden">
+
+            <img class="lazyload" src="index_files/5433342_gy_1218403e-94d9-473c-b8d2-052e7226f083_resize_pictu.png" data-original="http://img.wezhan.cn/content/sitefiles/27667/images/5433342_gy_1218403e-94d9-473c-b8d2-052e7226f083_resize_picture.png" alt="" style="border: medium none; position: relative; display: inline;">
+        </a>
+    </div>
+</div>
+</div>
+<div oldbottom="1437" id="view_image_26_1265" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden image_Style1_Item0" style="height:198px;width:468px;">    <div class="megwh" style="height:100%; width:100%;">
+        <a id="autosize_view_image_26_1265" href="javascript:void(0);" target="_self">
+            <input id="w_view_image_26_1265" value="468" type="hidden">
+            <input id="h_view_image_26_1265" value="198" type="hidden">
+            <input id="canadjustwidth_view_image_26_1265" value="False" type="hidden">
+            <input id="canadjustheight_view_image_26_1265" value="False" type="hidden">
+
+            <img class="lazyload" src="index_files/5433342_gy_2eaa12d3-e18f-4d2f-84c5-e7c218d12f23_resize_pictu.png" data-original="http://img.wezhan.cn/content/sitefiles/27667/images/5433342_gy_2eaa12d3-e18f-4d2f-84c5-e7c218d12f23_resize_picture.png" alt="" style="border: medium none; position: relative; display: inline;">
+        </a>
+    </div>
+</div>
+</div>
+<div oldbottom="1277" id="view_image_27_1265" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden image_Style1_Item0" style="height:172px;width:185px;">    <div class="megwh" style="height:100%; width:100%;">
+        <a id="autosize_view_image_27_1265" href="javascript:void(0);" target="_self">
+            <input id="w_view_image_27_1265" value="244" type="hidden">
+            <input id="h_view_image_27_1265" value="244" type="hidden">
+            <input id="canadjustwidth_view_image_27_1265" value="False" type="hidden">
+            <input id="canadjustheight_view_image_27_1265" value="False" type="hidden">
+
+            <img class="lazyload" src="index_files/6338711_terminal_ssh_473px_1174093_easyicon.png" data-original="http://img1.wezhan.cn/content/sitefiles/27667/images/6338711_terminal_ssh_473px_1174093_easyicon.net_98410bf8-f127-4719-a760-2e9fa882454c_resize_picture.png" alt="" style="border: medium none; position: relative; display: inline;">
+        </a>
+    </div>
+</div>
+</div>
+<div oldbottom="1056" id="view_image_28_1265" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden image_Style1_Item0" style="height:43px;width:43px;">    <div class="megwh" style="height:100%; width:100%;">
+        <a id="autosize_view_image_28_1265" href="javascript:void(0);" target="_self">
+            <input id="w_view_image_28_1265" value="43" type="hidden">
+            <input id="h_view_image_28_1265" value="43" type="hidden">
+            <input id="canadjustwidth_view_image_28_1265" value="False" type="hidden">
+            <input id="canadjustheight_view_image_28_1265" value="False" type="hidden">
+
+            <img class="lazyload" src="index_files/5433343_gy1_c3a4e860-ce9b-4c2c-9b28-57920d677248_resize_pict.png" data-original="http://img.wezhan.cn/content/sitefiles/27667/images/5433343_gy1_c3a4e860-ce9b-4c2c-9b28-57920d677248_resize_picture.png" alt="" style="border: medium none; position: relative; display: inline;">
+        </a>
+    </div>
+</div>
+</div>
+<div oldbottom="1160" id="view_text_29_1265" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden text_Style1_Item0" style="height:145px;width:277px;">
+<style type="text/css">
+    #view_text_29_1265_txt ul{ list-style-position:inside;}
+</style>
+<div id="view_text_29_1265_txt" style="cursor:default; height:100%; width:100%;">
+    <div class="editableContent">
+        <p><span style="font-family: 微软雅黑, 'Microsoft YaHei'; font-size: 18px; color: rgb(48, 152, 205);">Remix OS</span></p><p><br></p><p><span style="white-space: pre-wrap; font-family: arial, helvetica, sans-serif; font-size: 12px; color: rgb(127, 127, 127);">凭借整体基于 Android 系统深度定制的优势，Remix OS PC 版继承了安卓生态中多达 160 万的 App 资源，相对于传统 Windows 应用来说有着更快的更新节奏，而相对于 iOS 系统则有着明显的量级优势。</span></p>
+    </div>
+</div>
+<script>
+    Pagination('view_text_29_1265_txt',"首页","尾页","上一页","下一页");
+</script>
+</div>
+</div>
+<div oldbottom="1047" id="view_text_30_1265" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden text_Style1_Item0" style="height:30px;width:27px;">
+<style type="text/css">
+    #view_text_30_1265_txt ul{ list-style-position:inside;}
+</style>
+<div id="view_text_30_1265_txt" style="cursor:default; height:100%; width:100%;">
+    <div class="editableContent">
+        <p><span style="font-size: 24px; color: rgb(255, 255, 255); font-family: 'arial black', 'avant garde';">1</span></p>
+    </div>
+</div>
+<script>
+    Pagination('view_text_30_1265_txt',"首页","尾页","上一页","下一页");
+</script>
+</div>
+</div>
+<div oldbottom="1302" id="view_image_31_1265" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden image_Style1_Item0" style="height:43px;width:43px;">    <div class="megwh" style="height:100%; width:100%;">
+        <a id="autosize_view_image_31_1265" href="javascript:void(0);" target="_self">
+            <input id="w_view_image_31_1265" value="43" type="hidden">
+            <input id="h_view_image_31_1265" value="43" type="hidden">
+            <input id="canadjustwidth_view_image_31_1265" value="False" type="hidden">
+            <input id="canadjustheight_view_image_31_1265" value="False" type="hidden">
+
+            <img class="lazyload" src="index_files/5433343_gy1_75551e6f-c4a5-4550-bdfe-7e21749e8bce_resize_pict.png" data-original="http://img.wezhan.cn/content/sitefiles/27667/images/5433343_gy1_75551e6f-c4a5-4550-bdfe-7e21749e8bce_resize_picture.png" alt="" style="border: medium none; position: relative; display: inline;">
+        </a>
+    </div>
+</div>
+</div>
+<div oldbottom="1301" id="view_image_32_1265" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden image_Style1_Item0" style="height:43px;width:43px;">    <div class="megwh" style="height:100%; width:100%;">
+        <a id="autosize_view_image_32_1265" href="javascript:void(0);" target="_self">
+            <input id="w_view_image_32_1265" value="43" type="hidden">
+            <input id="h_view_image_32_1265" value="43" type="hidden">
+            <input id="canadjustwidth_view_image_32_1265" value="False" type="hidden">
+            <input id="canadjustheight_view_image_32_1265" value="False" type="hidden">
+
+            <img class="lazyload" src="index_files/5433343_gy1_df7509f9-1c77-4628-943d-39b8f9bbc7de_resize_pict.png" data-original="http://img.wezhan.cn/content/sitefiles/27667/images/5433343_gy1_df7509f9-1c77-4628-943d-39b8f9bbc7de_resize_picture.png" alt="" style="border: medium none; position: relative; display: inline;">
+        </a>
+    </div>
+</div>
+</div>
+<div oldbottom="1055" id="view_image_33_1265" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden image_Style1_Item0" style="height:43px;width:43px;">    <div class="megwh" style="height:100%; width:100%;">
+        <a id="autosize_view_image_33_1265" href="javascript:void(0);" target="_self">
+            <input id="w_view_image_33_1265" value="43" type="hidden">
+            <input id="h_view_image_33_1265" value="43" type="hidden">
+            <input id="canadjustwidth_view_image_33_1265" value="False" type="hidden">
+            <input id="canadjustheight_view_image_33_1265" value="False" type="hidden">
+
+            <img class="lazyload" src="index_files/5433343_gy1_219b6fe5-7ba2-4428-a931-04f51c4d544a_resize_pict.png" data-original="http://img.wezhan.cn/content/sitefiles/27667/images/5433343_gy1_219b6fe5-7ba2-4428-a931-04f51c4d544a_resize_picture.png" alt="" style="border: medium none; position: relative; display: inline;">
+        </a>
+    </div>
+</div>
+</div>
+<div oldbottom="1411" id="view_text_34_1265" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden text_Style1_Item0" style="height:145px;width:277px;">
+<style type="text/css">
+    #view_text_34_1265_txt ul{ list-style-position:inside;}
+</style>
+<div id="view_text_34_1265_txt" style="cursor:default; height:100%; width:100%;">
+    <div class="editableContent">
+        <p><span style="font-family: 微软雅黑, 'Microsoft YaHei'; font-size: 18px; color: rgb(48, 152, 205);">Android</span></p><p><br></p><p><span style="white-space: pre-wrap; font-size: 12px; font-family: arial, helvetica, sans-serif; color: rgb(127, 127, 127);">Android是一种基于Linux的自由及开放源代码的操作系统，主要使用于移动设备，如智能手机和平板电脑，由Google公司和开放手机联盟领导及开发。Android操作系统最初由Andy Rubin开发，主要支持手机。</span></p>
+    </div>
+</div>
+<script>
+    Pagination('view_text_34_1265_txt',"首页","尾页","上一页","下一页");
+</script>
+</div>
+</div>
+<div oldbottom="1426" id="view_text_35_1265" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden text_Style1_Item0" style="height:153px;width:277px;">
+<style type="text/css">
+    #view_text_35_1265_txt ul{ list-style-position:inside;}
+</style>
+<div id="view_text_35_1265_txt" style="cursor:default; height:100%; width:100%;">
+    <div class="editableContent">
+        <p><span style="font-family: 微软雅黑, 'Microsoft YaHei'; font-size: 18px; color: rgb(48, 152, 205);">Visual Basic</span></p><p><span style="font-family: arial, helvetica, sans-serif; font-size: 14px; color: rgb(127, 127, 127);"><br></span></p><p><span style="white-space: pre-wrap; font-family: arial, helvetica, sans-serif; font-size: 14px; color: rgb(127, 127, 127);">Visual Basic是一种由 微软公司开发的结构化的、模块化的、面向对象的、包含协助开发环境的事件驱动为机制的可视化程序设计语言。这是一种可用于微软自家产品开发的语言。它源自于BASIC编程语言。</span></p><p><br></p><p><br></p>
+    </div>
+</div>
+<script>
+    Pagination('view_text_35_1265_txt',"首页","尾页","上一页","下一页");
+</script>
+</div>
+</div>
+<div oldbottom="1164" id="view_text_36_1265" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden text_Style1_Item0" style="height:145px;width:277px;">
+<style type="text/css">
+    #view_text_36_1265_txt ul{ list-style-position:inside;}
+</style>
+<div id="view_text_36_1265_txt" style="cursor:default; height:100%; width:100%;">
+    <div class="editableContent">
+        <p><span style="font-family: 微软雅黑, 'Microsoft YaHei'; font-size: 18px; color: rgb(48, 152, 205);">Android-X86</span></p><p><span style="color: rgb(127, 127, 127); font-family: arial, helvetica, sans-serif; white-space: pre-wrap;"><br></span></p><p><span style="color: rgb(127, 127, 127); font-family: arial, helvetica, sans-serif; white-space: pre-wrap;">Android x86 即运行于 x86 PC上的Android操作系统，目前已经支持大部分安卓程序。Android X86平台是由Beyounn和Cwhuang主持设计的。项目的主要目的在于为X86平台提供一套完整的Android 系统解决方案。</span><br></p>
+    </div>
+</div>
+<script>
+    Pagination('view_text_36_1265_txt',"首页","尾页","上一页","下一页");
+</script>
+</div>
+</div>
+<div oldbottom="1293" id="view_text_37_1265" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden text_Style1_Item0" style="height:30px;width:27px;">
+<style type="text/css">
+    #view_text_37_1265_txt ul{ list-style-position:inside;}
+</style>
+<div id="view_text_37_1265_txt" style="cursor:default; height:100%; width:100%;">
+    <div class="editableContent">
+        <p><span style="font-size: 24px; color: rgb(255, 255, 255); font-family: 'arial black', 'avant garde';">3</span></p>
+    </div>
+</div>
+<script>
+    Pagination('view_text_37_1265_txt',"首页","尾页","上一页","下一页");
+</script>
+</div>
+</div>
+<div oldbottom="1046" id="view_text_38_1265" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden text_Style1_Item0" style="height:30px;width:27px;">
+<style type="text/css">
+    #view_text_38_1265_txt ul{ list-style-position:inside;}
+</style>
+<div id="view_text_38_1265_txt" style="cursor:default; height:100%; width:100%;">
+    <div class="editableContent">
+        <p><span style="font-size: 24px; color: rgb(255, 255, 255); font-family: 'arial black', 'avant garde';">2</span></p>
+    </div>
+</div>
+<script>
+    Pagination('view_text_38_1265_txt',"首页","尾页","上一页","下一页");
+</script>
+</div>
+</div>
+<div oldbottom="1291" id="view_text_39_1265" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden text_Style1_Item0" style="height:30px;width:27px;">
+<style type="text/css">
+    #view_text_39_1265_txt ul{ list-style-position:inside;}
+</style>
+<div id="view_text_39_1265_txt" style="cursor:default; height:100%; width:100%;">
+    <div class="editableContent">
+        <p><span style="font-size: 24px; color: rgb(255, 255, 255); font-family: 'arial black', 'avant garde';">4</span></p>
+    </div>
+</div>
+<script>
+    Pagination('view_text_39_1265_txt',"首页","尾页","上一页","下一页");
+</script>
+</div>
+</div>
+<div oldbottom="1948" id="view_photoalbum_40_1265" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden photoalbum_Style2_Item0 view_photoalbum_40_1265_Style2_Item0" style="height: 444px; width: 1000px; overflow: visible;"><div style="left: -174px; width: 1348px; height: 444px;" class="w_slider_2 renderfullScreen w_slider_2_40">
+
+    <div class="w_slider_img">
+        <ul>
+                <li style="background: url(http://img.wezhan.cn/content/sitefiles/27667/images/6427790_23.jpeg) center 0 no-repeat;">
+                    <div class="siteWidth">
+
+                        <p class="txt" style="display:none;">
+                            23
+                            <span class="btn"></span>
+                        </p>
+                        <p class="txtDesc" style="display: none;">
+                            图片0
+                        </p>
+
+                        <a style=" cursor:default" title="23" href="javascript:void(0);"></a>
+
+                    </div>
+                </li>
+        </ul>
+    </div>
+    <!-- 下面是前/后按钮代码，如果不需要删除即可 -->
+    <a style="display:none;" class="prev" href="javascript:void(0)"></a>
+    <a style="display:none;" class="next" href="javascript:void(0)"></a>
+
+    <div class="w_slider_num" style="display:none;"><ul><li class="on">1</li></ul></div>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+              
+              setRenderFullScreen($("#view_photoalbum_40_1265"));
+        
+        $(".w_slider_2_40").slide({
+            titCell: $(".w_slider_2_40 .w_slider_num ul"),
+            mainCell: $(".w_slider_2_40 .w_slider_img ul"),
+            effect: "fade",
+            autoPlay: "true",
+            autoPage: true,
+            trigger: "click",
+            interTime: "1500"
+        });
+    });
+  
+    
+</script></div>
+</div>
+<div oldbottom="1591" id="view_text_41_1265" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden text_Style1_Item0" style="height:48px;width:500px;">
+<style type="text/css">
+    #view_text_41_1265_txt ul{ list-style-position:inside;}
+</style>
+<div id="view_text_41_1265_txt" style="cursor:default; height:100%; width:100%;">
+    <div class="editableContent">
+        <p style="text-align: center;"><span style="font-family: 微软雅黑, 'Microsoft YaHei'; color: rgb(255, 255, 255); font-size: 24px;">About|Developer</span></p>
+    </div>
+</div>
+<script>
+    Pagination('view_text_41_1265_txt',"首页","尾页","上一页","下一页");
+</script>
+</div>
+</div>
+<div oldbottom="1904" id="view_text_42_1265" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden text_Style1_Item0" style="height:302px;width:224px;">
+<style type="text/css">
+    #view_text_42_1265_txt ul{ list-style-position:inside;}
+</style>
+<div id="view_text_42_1265_txt" style="cursor:default; height:100%; width:100%;">
+    <div class="editableContent">
+        <p><br></p><p style="text-align: center;"><img src="index_files/6428079_boy_87.png"></p><p style="text-align: center;"><span style="font-family: 微软雅黑, 'Microsoft YaHei'; font-size: 18px; color: rgb(255, 255, 255);"><br></span></p><p style="text-align: center;"><span style="font-family: 微软雅黑, 'Microsoft YaHei'; font-size: 18px; color: rgb(255, 255, 255);">Vince</span></p><p style="text-align: center;"><span style="font-family: 微软雅黑, 'Microsoft YaHei'; color: rgb(255, 255, 255);">网站开发&nbsp;</span></p><p style="text-align: center;"><span style="font-family: 微软雅黑, 'Microsoft YaHei'; color: rgb(255, 255, 255);">Remix论坛超级版主</span></p><p><br></p>
+    </div>
+</div>
+<script>
+    Pagination('view_text_42_1265_txt',"首页","尾页","上一页","下一页");
+</script>
+</div>
+</div>
+<div oldbottom="1915" id="view_text_44_1265" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden text_Style1_Item0" style="height:313px;width:224px;">
+<style type="text/css">
+    #view_text_44_1265_txt ul{ list-style-position:inside;}
+</style>
+<div id="view_text_44_1265_txt" style="cursor:default; height:100%; width:100%;">
+    <div class="editableContent">
+        <p><br></p><p style="text-align: center;"><img src="index_files/6428090_boy_87.png"></p><p style="text-align: center;"><span style="font-family: 微软雅黑, 'Microsoft YaHei'; font-size: 18px; color: rgb(255, 255, 255);"><br></span></p><p style="text-align: center;"><span style="font-family: 微软雅黑, 'Microsoft YaHei'; font-size: 18px; color: rgb(255, 255, 255);">PSP</span></p><p style="text-align: center;"><span style="font-family: 微软雅黑, 'Microsoft YaHei'; color: rgb(255, 255, 255);">工具作者</span></p><p style="text-align: center;"><span style="font-family: 微软雅黑, 'Microsoft YaHei'; color: rgb(255, 255, 255);">DIY超级玩家</span></p><p><br></p>
+    </div>
+</div>
+<script>
+    Pagination('view_text_44_1265_txt',"首页","尾页","上一页","下一页");
+</script>
+</div>
+</div>
+<div oldbottom="1904" id="view_text_45_1265" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden text_Style1_Item0" style="height:302px;width:224px;">
+<style type="text/css">
+    #view_text_45_1265_txt ul{ list-style-position:inside;}
+</style>
+<div id="view_text_45_1265_txt" style="cursor:default; height:100%; width:100%;">
+    <div class="editableContent">
+        <p><br></p><p style="text-align: center;"><img src="index_files/6428092_girl_116.png"></p><p style="text-align: center;"><span style="font-family: 微软雅黑, 'Microsoft YaHei'; font-size: 18px; color: rgb(255, 255, 255);"><br></span></p><p style="text-align: center;"><span style="font-family: 微软雅黑, 'Microsoft YaHei'; font-size: 18px; color: rgb(255, 255, 255);">女神</span></p><p style="text-align: center;"><span style="font-family: 微软雅黑, 'Microsoft YaHei'; color: rgb(255, 255, 255);">欢迎加入</span></p><p style="text-align: center;"><span style="font-family: 微软雅黑, 'Microsoft YaHei'; color: rgb(255, 255, 255);">代认领<br></span></p><p style="text-align: center;"><br></p><p><br></p>
+    </div>
+</div>
+<script>
+    Pagination('view_text_45_1265_txt',"首页","尾页","上一页","下一页");
+</script>
+</div>
+</div>
+<div oldbottom="516" id="view_image_56_1265" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden image_Style1_Item0" style="height:93px;width:152px;">    <div class="megwh" style="height:100%; width:100%;">
+        <a id="autosize_view_image_56_1265" href="javascript:void(0);" target="_self">
+            <input id="w_view_image_56_1265" value="48" type="hidden">
+            <input id="h_view_image_56_1265" value="48" type="hidden">
+            <input id="canadjustwidth_view_image_56_1265" value="False" type="hidden">
+            <input id="canadjustheight_view_image_56_1265" value="False" type="hidden">
+
+            <img class="lazyload" src="index_files/6338518_twitter_v_48px_1144022_easyicon_003.png" data-original="http://img1.wezhan.cn/content/sitefiles/27667/images/6338518_twitter_v_48px_1144022_easyicon.net_f4979e72-8260-4609-ac84-fd2c2d27872f_resize_picture.png" alt="" style="border: medium none; position: relative; display: inline;">
+        </a>
+    </div>
+</div>
+</div>
+<div oldbottom="638" id="view_text_62_1265" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden text_Style1_Item0" style="height:105px;width:546px;">
+<style type="text/css">
+    #view_text_62_1265_txt ul{ list-style-position:inside;}
+</style>
+<div id="view_text_62_1265_txt" style="cursor:default; height:100%; width:100%;">
+    <div class="editableContent">
+        <p style="text-align: center;"><span style="color: rgb(255, 255, 255); font-size: 24px; font-family: 微软雅黑, 'Microsoft YaHei';">一个快速 高效 便捷的工具</span></p>
+    </div>
+</div>
+<script>
+    Pagination('view_text_62_1265_txt',"首页","尾页","上一页","下一页");
+</script>
+</div>
+</div>
+<div oldbottom="829" id="view_image_64_1265" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden image_Style1_Item0" style="height:67px;width:122px;">    <div class="megwh" style="height:100%; width:100%;">
+        <a id="autosize_view_image_64_1265" href="javascript:void(0);" target="_self">
+            <input id="w_view_image_64_1265" value="480" type="hidden">
+            <input id="h_view_image_64_1265" value="300" type="hidden">
+            <input id="canadjustwidth_view_image_64_1265" value="False" type="hidden">
+            <input id="canadjustheight_view_image_64_1265" value="False" type="hidden">
+
+            <img class="lazyload" src="index_files/6427992_location_circle_64px_1116319_easyicon.png" data-original="http://img1.wezhan.cn/content/sitefiles/27667/images/6427992_location_circle_64px_1116319_easyicon.net_e929aae2-96fe-4139-93a4-53ad761e8b07_resize_picture.png" alt="" style="border: medium none; position: relative; display: inline;">
+        </a>
+    </div>
+</div>
+</div>
+</div></div>
+</div>
+
+        	</div>
+        </div>
+    </div>
+    <div style="width:100%;height:54px;background-color:;">
+      <div class="footer page_footer" style="width:1000px;height:54px;;">
+           <div class="runTimeflowsmartView"><div id="view_image_42_843" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden image_Style1_Item0" style="height:43px;width:80px;">    <div class="megwh" style="height:100%; width:100%;">
+        <a id="autosize_view_image_42_843" href="http://androidx86install.com/old/" target="_self">
+            <input id="w_view_image_42_843" value="480" type="hidden">
+            <input id="h_view_image_42_843" value="300" type="hidden">
+            <input id="canadjustwidth_view_image_42_843" value="False" type="hidden">
+            <input id="canadjustheight_view_image_42_843" value="False" type="hidden">
+
+            <img class="lazyload" src="index_files/6427676_adjust_32px_1181638_easyicon.png" data-original="http://img1.wezhan.cn/content/sitefiles/27667/images/6427676_adjust_32px_1181638_easyicon.net_36f0811a-1052-482a-b768-2aa2e3547e19_resize_picture.png" alt="" style="border: medium none; position: relative; display: inline;">
+        </a>
+    </div>
+</div>
+</div>
+<div id="view_text_46_843" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden text_Style1_Item0" style="height:39px;width:385px;">
+<style type="text/css">
+    #view_text_46_843_txt ul{ list-style-position:inside;}
+</style>
+<div id="view_text_46_843_txt" style="cursor:default; height:100%; width:100%;">
+    <div class="editableContent">
+        <p><span style="color: rgb(51, 51, 51); font-family: 'Open Sans', 'Droid Sans', Helvetica, sans-serif; line-height: 19.8px; text-align: center; background-color: rgb(255, 255, 255);">Copyright © 2016 Android-X86 Installer Support:Vince&nbsp;</span></p>
+    </div>
+</div>
+<script>
+    Pagination('view_text_46_843_txt',"首页","尾页","上一页","下一页");
+</script>
+</div>
+</div>
+<div id="view_image_49_843" class="yibuSmartViewMargin absPos">
+<div class="yibuFrameContent overflow_hidden image_Style1_Item0" style="height:44px;width:72px;">    <div class="megwh" style="height:100%; width:100%;">
+        <a id="autosize_view_image_49_843" href="javascript:void(0);" target="_self">
+            <input id="w_view_image_49_843" value="48" type="hidden">
+            <input id="h_view_image_49_843" value="48" type="hidden">
+            <input id="canadjustwidth_view_image_49_843" value="False" type="hidden">
+            <input id="canadjustheight_view_image_49_843" value="False" type="hidden">
+
+            <img class="lazyload" src="index_files/6338518_twitter_v_48px_1144022_easyicon_002.png" data-original="http://img1.wezhan.cn/content/sitefiles/27667/images/6338518_twitter_v_48px_1144022_easyicon.net_537311ed-b508-4d1f-ba9d-45d3a94378f1_resize_picture.png" alt="" style="border: medium none; position: relative; display: inline;">
+        </a>
+    </div>
+</div>
+</div>
+</div>
+      </div>
+    </div>
+      </div>
+</div>
+
+    
+    <script type="text/javascript">
+        $(function () {
+            if ("False" == "False") {
+                $.ajax({
+                    url: "http://clouddreams.wezhan.cn/PageVisit/Index",
+                    data: { UrlPath: "sy", pageTitle: "首页", pageId: "1265", siteId: "27667" },
+                    dataType: 'jsonp',
+                    jsonp: 'callback',
+                    type: 'get',
+                    success: function () { },
+                    fail: function () {
+                        alert("fail");
+                    }
+                })
+            }
+
+            if(0>0){
+                window.location.href="/RunTime/DownLoadFileVerifyToken/0"+"?timespan=&token=";
+            }
+        })
+
+    </script>
+    <script language="javascript" type="text/javascript">
+        function yiburecomputeLayoutHeight(){
+            if (typeof (setLayoutHeight) != "undefined"){
+                ReComputeVisibleSmartViewTop(setLayoutHeight);
+            }else{
+                ReComputeVisibleSmartViewTop();
+            }
+        }
+        $(function () {
+            if ("False" == "False") {
+                $(document.body).bind('contextmenu',function(){return false;});
+            }
+            $('.yibuAnimate').smanimate();
+            $("img.lazyload").lazyload({ skip_invisible: false, effect: "fadeIn", failure_limit: 15, threshold: 100});
+            var $sm_all_imgs=$('.main img').filter(function(){
+                return !$(this).hasClass('lazyload');
+            });
+            if($sm_all_imgs.length>0){
+                $sm_all_imgs.each(function(){
+                    var $this=$(this);
+                    $this.bind("load", function() {
+                        yiburecomputeLayoutHeight();
+                    });
+                });
+            }
+            yiburecomputeLayoutHeight();
+        });
+
+    </script>
+
+
+</body></html>
