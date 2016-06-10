@@ -5,5 +5,5 @@ Email:vinceying46@gamil.com
 
 code@androidx86install.com
 
-powered by HTML 5
+Powered by HTML 5
 
